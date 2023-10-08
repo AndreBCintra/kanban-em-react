@@ -1,2 +1,3 @@
 # kanban-em-react
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://sw2zk7.csb.app/)
